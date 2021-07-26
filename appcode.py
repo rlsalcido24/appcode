@@ -1,5 +1,5 @@
 # Databricks notebook source
-#insert app code
+#insert app code. best app code ever
 os.environ["DATABRICKS_TOKEN"] = "<YOUR_TOKEN>"
 import os
 import requests
